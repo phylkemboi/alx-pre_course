@@ -1,1 +1,1 @@
-My first readme
+README file in the root directory
